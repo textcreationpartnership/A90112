@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ode to the king on his return from New-Market / set by Mr. Baptist, master of the Queen's Musick.</title>
+            <author>Draghi, Giovanni Battista, ca. 1640-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90112</idno>
+            <idno type="STC">Wing O135B</idno>
+            <idno type="STC">ESTC R181174</idno>
+            <idno type="EEBO-CITATION">43078102</idno>
+            <idno type="OCLC">ocm 43078102</idno>
+            <idno type="VID">151620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151620)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2267:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ode to the king on his return from New-Market / set by Mr. Baptist, master of the Queen's Musick.</title>
+                  <author>Draghi, Giovanni Battista, ca. 1640-1708.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley, in Russel-street in Covent-Garden, with the authors consent,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151620:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>AN ODE TO THE KING On his Return from <hi>New-Market.</hi>
+            </p>
+            <p>
+               <hi>Set by Mr.</hi> Baptiſt, <hi>Maſter of the Queen's Muſick.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley,</hi> in <hi>Ruſſel-ſtreet</hi> in <hi>Covent-Garden,</hi> with the Authors Conſent, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151620:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:151620:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>An ODE To the KING, on his Return from <hi>New-Market.</hi>
+            </head>
+            <lg>
+               <l>LET all our Feares, let all our Murmures ceaſe,</l>
+               <l>The <hi>Britiſh Halcyon</hi> comes with Peace.</l>
+               <l>Safe He Returnes, deſir'd, and bleſt,</l>
+               <l>Our Union ripening in his Royal Breaſt.</l>
+               <l>He comes to toil that We may Reſt.</l>
+               <l>
+                  <hi>England</hi>'s Hope and <hi>Rome</hi>'s Deſpair,</l>
+               <l>Earth's delight, and Heaven's care!</l>
+               <l>To all our Joy, our Safety's come!</l>
+               <l>Ever wellcome, wellcome Home!</l>
+               <l>Wellcome as Day's reviving Light,</l>
+               <l>After diſmal Dreames by Night;</l>
+               <l>Chear us, ſave us with thy Sight!</l>
+               <l>With thy bleſt ſight, to all thy Subjects dear,</l>
+            </lg>
+            <lg>
+               <l>Cure a trembling Nation's Fear.</l>
+               <l>Break out again in thy Youth's God-like Form,</l>
+            </lg>
+            <lg>
+               <l>And with an <hi>All-reſtoring</hi> Ray</l>
+               <l>Diſpell the black Impending Storm,</l>
+            </lg>
+            <lg>
+               <l>And drive the gathering Clouds away.</l>
+               <l>Oh ſole ſupport in dark deſpairing dayes!</l>
+               <l>What Muſe divine ſhall ſing our Love, what Angel-Quire thy Praiſe!</l>
+               <l>Juſt to thy Friends! beſt Refuge of thy Foes!</l>
+               <l>Our weary floating Iſle's Repoſe!</l>
+               <l>For all Diſtractions, every publick Grief,</l>
+               <l>Thou often try'd, Thou only ſure Relief!</l>
+               <pb n="2" facs="tcp:151620:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->
+               <l>If Hell aſſault a Life ſo dear,</l>
+               <l>Or Heaven's Rod reach ſome precious P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt;</l>
+               <l>'Tis We that in thy danger<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fear,</l>
+               <l>In all thy pains we ſmart.</l>
+               <l>Thy Safety's Ours, Ours is thy Health;</l>
+               <l>Prop of our Faith! Guard of our Wealth!</l>
+               <l>The Cordial that with Fate does ſtrive,</l>
+               <l>And ſtill keeps Liberty alive!</l>
+               <l>At the laſt gaſp does fainting Hope relieve!</l>
+            </lg>
+            <lg>
+               <l>Devoted <hi>England</hi>'s kind <hi>Reprieve!</hi>
+               </l>
+               <l>Her daily Prayer, her chief Endeavour!</l>
+               <l>Out-live our Feares! O Live for ever!</l>
+            </lg>
+            <lg>
+               <l>Ever Live, and ever Reign!</l>
+               <l>By thy <hi>Sovereigne healing Touch</hi>
+               </l>
+               <l>Cloſe our gaping Wounds again.</l>
+               <l>Nor think thy tenderneſſe too much</l>
+               <l>In a common Father's Love,</l>
+               <l>Copy him that rules Above.</l>
+               <l>Equal, like his Showers on All,</l>
+               <l>Both Good and Bad, thy Juſtice fall.</l>
+               <l>What thy Star promis'd, let thy Reign fulfill,</l>
+               <l>And Mercy be thy Favourite Virtue ſtill.</l>
+               <l>Mercy, when all Force had fail'd,</l>
+               <l>O're thy conquering Foes prevail'd:</l>
+               <l>Did a loſt Kingdom, mad with Jealouſie, reclaim;</l>
+            </lg>
+            <lg>
+               <l>O keep and rule it by the ſame!</l>
+               <l>That Virtue of thy Blood can never—never be to blame</l>
+               <l>Take to thy Boſome this repenting Wife,</l>
+               <l>And whom Heaven joines None dare to ſever!</l>
+               <l>No fawning Fiend advance new ſtrife,</l>
+               <l>Or under ſhows to guard thy Life,</l>
+               <l>Thy Death afreſh endeavour;</l>
+               <l>Out-live our Feares, O Live for ever!</l>
+               <l>Happy keep us ſtill, and free,</l>
+               <l>We no Succeſſor wiſh to ſee.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
